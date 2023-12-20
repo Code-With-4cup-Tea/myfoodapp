@@ -1,0 +1,33 @@
+export const  categories =[
+    {
+        id:1,
+        name:"Breakfast",
+        urlParamName:"breakfast"
+    },
+    {
+        id:2,
+        name:"Burger",
+        urlParamName:"burger"
+    },
+    {
+        id:3,
+        name:"Noodles",
+        urlParamName:"noodles"
+    },
+    {
+        id:4,
+        name:"Sandwiche",
+        urlParamName:"sandwiche"
+    },
+    {
+        id:5,
+        name:"Thali",
+        urlParamName:"thali"
+    },
+    {
+        id:6,
+        name:"Wrap",
+        urlParamName:"wrap"
+    }
+
+]
